@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TongueMask</string>
+    <string name="upload">上傳</string>
+    <string name="take_photo">拍照</string>
+    <string name="switch_camera">鏡頭翻轉</string>
+    <string name="camera">相機</string>
+    <string name="album">相簿</string>
+    <string name="normal_coating">"正常苔 "</string>
+    <string name="white_coating">"白苔 "</string>
+    <string name="yellow_coating">"黃苔 "</string>
+    <string name="black_or_unsure">"灰黑苔或不確定 "</string>
+    <string name="coating_details">舌苔顏色說明</string>
+    <string name="others">其他</string>
+    <string name="share">分享圖片</string>
+    <string name="save">儲存圖片</string>
+    <string name="home">回首頁</string>
+</resources>

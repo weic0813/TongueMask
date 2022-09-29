@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/grp1">
+        <item
+            android:id="@+id/tongue_help"
+            android:title="@string/coating_details"
+            app:showAsAction="always">
+            <menu>
+                <group android:id="@+id/grps1">
+                    <item
+                        android:id="@+id/tongue_help_normal"
+                        android:title="@string/normal_coating" />
+                </group>
+                <group android:id="@+id/grps2">
+                    <item
+                        android:id="@+id/tongue_help_yellow"
+                        android:title="@string/yellow_coating" />
+                </group>
+                <group android:id="@+id/grps3">
+                    <item
+                        android:id="@+id/tongue_help_white"
+                        android:title="@string/white_coating" />
+                </group>
+                <group android:id="@+id/grps4">
+                    <item
+                        android:id="@+id/tongue_help_gray"
+                        android:title="@string/black_or_unsure" />
+                </group>
+            </menu>
+        </item>
+    </group>
+    <group android:id="@+id/grp2">
+        <item
+            android:id="@+id/others"
+            android:icon="@android:drawable/ic_menu_more"
+            android:title="@string/others"
+            app:showAsAction="ifRoom">
+            <menu>
+                <group android:id="@+id/grps5">
+                    <item
+                        android:id="@+id/share"
+                        android:title="@string/share" />
+                </group>
+                <group android:id="@+id/grps6">
+                    <item
+                        android:id="@+id/store"
+                        android:title="@string/save" />
+                </group>
+                <group android:id="@+id/grps7">
+                    <item
+                        android:id="@+id/return_home"
+                        android:title="@string/home" />
+                </group>
+            </menu>
+        </item>
+    </group>
+</menu>

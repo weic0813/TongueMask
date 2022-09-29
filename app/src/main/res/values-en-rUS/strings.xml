@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TongueMask</string>
+    <string name="upload">upload</string>
+    <string name="take_photo">take photo</string>
+    <string name="switch_camera">switch camera</string>
+    <string name="camera">camera</string>
+    <string name="album">album</string>
+    <string name="normal_coating">"normal coating "</string>
+    <string name="white_coating">"white coating "</string>
+    <string name="yellow_coating">"yellow coating "</string>
+    <string name="black_or_unsure">"black coating or unsure "</string>
+    <string name="coating_details">coating details</string>
+    <string name="others">others</string>
+    <string name="share">share</string>
+    <string name="save">save</string>
+    <string name="home">home</string>
+</resources>
