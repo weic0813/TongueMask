@@ -32,4 +32,3 @@ When the server returns the results back to the mobile app, the app can store th
 * * *
 
 ##Execution Flow Chart##
- 
